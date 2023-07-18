@@ -11,3 +11,6 @@ Prims algorithm
 
 dijstra's  algorithm
 ![image](https://github.com/chetansy08/CHETAN1BM22AI401/assets/137137686/1459cc57-98dc-49a5-99ca-992834bd87c3)
+
+kruskal's algorithm 
+![image](https://github.com/chetansy08/CHETAN1BM22AI401/assets/137137686/ba083efd-dfb3-4995-aaca-b7ad6c3844e2)
