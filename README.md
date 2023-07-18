@@ -8,3 +8,6 @@ QuickSort
 
 Prims algorithm
 ![image](https://github.com/chetansy08/CHETAN1BM22AI401/assets/137137686/4f3005db-90fd-4747-b81d-f9995a4fe327)
+
+dijstra's  algorithm
+![image](https://github.com/chetansy08/CHETAN1BM22AI401/assets/137137686/1459cc57-98dc-49a5-99ca-992834bd87c3)
