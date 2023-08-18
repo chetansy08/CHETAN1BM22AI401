@@ -17,4 +17,6 @@ kruskal's algorithm
 
 
 DFS
+![image](https://github.com/chetansy08/CHETAN1BM22AI401/assets/137137686/fadf3ee9-bbc4-4ba0-be88-65193d4bfe76)
+
 
