@@ -14,3 +14,7 @@ dijstra's  algorithm
 
 kruskal's algorithm 
 ![image](https://github.com/chetansy08/CHETAN1BM22AI401/assets/137137686/ba083efd-dfb3-4995-aaca-b7ad6c3844e2)
+
+
+DFS
+![image](https://github.com/chetansy08/CHETAN1BM22AI401/assets/137137686/9eac9628-2a93-4944-af9c-ce4a17f0ada1)
