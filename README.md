@@ -28,3 +28,5 @@ Insertion sort
 Harspool Algorithm
 ![image](https://github.com/chetansy08/CHETAN1BM22AI401/assets/137137686/12121645-3c82-4303-bfbd-c3e5bfb61e6b)
 
+Topological sorting
+![Screenshot 2023-08-17 221300](https://github.com/chetansy08/CHETAN1BM22AI401/assets/137137686/078cc19f-1690-41b8-becf-f902589b790b)
