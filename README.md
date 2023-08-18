@@ -22,3 +22,5 @@ DFS
 Bfs
 ![Screenshot 2023-08-17 212725](https://github.com/chetansy08/CHETAN1BM22AI401/assets/137137686/a743bb68-8fce-4bad-9433-9a31223b92c0)
 
+Insertion sort
+![Screenshot 2023-08-17 214537](https://github.com/chetansy08/CHETAN1BM22AI401/assets/137137686/bfc0e954-3bb4-47c3-bd4f-ac44c08b5e81)
