@@ -33,3 +33,7 @@ Topological sorting
 
 sum Of subsets
 ![sos](https://github.com/chetansy08/CHETAN1BM22AI401/assets/137137686/c11bcd9c-e05c-4e71-b874-5b3ac9af8fe0)
+
+N-Queens problem
+![N-queen](https://github.com/chetansy08/CHETAN1BM22AI401/assets/137137686/e54daead-f8cd-4098-a950-57db128b4516)
+
