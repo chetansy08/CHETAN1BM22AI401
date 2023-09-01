@@ -37,3 +37,5 @@ sum Of subsets
 N-Queens problem
 ![N-queen](https://github.com/chetansy08/CHETAN1BM22AI401/assets/137137686/e54daead-f8cd-4098-a950-57db128b4516)
 
+Binomial Co-efficient
+![B-C](https://github.com/chetansy08/CHETAN1BM22AI401/assets/137137686/dea0de73-a8d7-4ead-8b2d-6d82789688c0)
