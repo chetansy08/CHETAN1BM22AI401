@@ -30,3 +30,6 @@ Harspool Algorithm
 
 Topological sorting
 ![Screenshot 2023-08-17 221300](https://github.com/chetansy08/CHETAN1BM22AI401/assets/137137686/078cc19f-1690-41b8-becf-f902589b790b)
+
+sum Of subsets
+![sos](https://github.com/chetansy08/CHETAN1BM22AI401/assets/137137686/c11bcd9c-e05c-4e71-b874-5b3ac9af8fe0)
