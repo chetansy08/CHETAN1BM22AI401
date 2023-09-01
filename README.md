@@ -39,3 +39,6 @@ N-Queens problem
 
 Binomial Co-efficient
 ![B-C](https://github.com/chetansy08/CHETAN1BM22AI401/assets/137137686/dea0de73-a8d7-4ead-8b2d-6d82789688c0)
+
+Knapsack problem
+![k-s](https://github.com/chetansy08/CHETAN1BM22AI401/assets/137137686/0fd3c33d-d677-4f67-b60a-61b42282e8f0)
