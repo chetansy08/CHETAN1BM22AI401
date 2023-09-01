@@ -42,3 +42,5 @@ Binomial Co-efficient
 
 Knapsack problem
 ![k-s](https://github.com/chetansy08/CHETAN1BM22AI401/assets/137137686/0fd3c33d-d677-4f67-b60a-61b42282e8f0)
+
+Floyd's algorithm
