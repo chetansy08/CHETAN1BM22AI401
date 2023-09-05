@@ -45,3 +45,6 @@ Knapsack problem
 
 Floyd's algorithm
 ![F-A](https://github.com/chetansy08/CHETAN1BM22AI401/assets/137137686/cf7ddb37-c5bf-4437-b20e-ff2a878b619a)
+
+Heap
+![Heap](https://github.com/chetansy08/CHETAN1BM22AI401/assets/137137686/4a966a76-6b10-4e19-978f-5081ad048d94)
